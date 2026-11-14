@@ -1,0 +1,8 @@
+{
+	"name": "eri",
+	"compatibility_date": "2026-10-07",
+	"compatibility_flags": ["nodejs_compat"],
+	"assets": {
+		"directory": "./dist"
+	}
+}
