@@ -6,13 +6,13 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "https://img.107211.xyz/file/img/2U6pYCWK.webp",
+	avatar: "https://images.cnblogs.com/cnblogs_com/blogs/860892/galleries/2505127/o_261123015323_1.png",
 
 	// 名字
-	name: "Eri",
+	name: "绘里酱",
 
 	// 个人签名
-	bio: "Hello, I'm Eri.",
+	bio: "绘星，绘世，绘里酱！",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

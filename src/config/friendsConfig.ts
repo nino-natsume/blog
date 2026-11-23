@@ -25,7 +25,7 @@ export const friendsConfig: FriendLink[] = [
 	{
 		title: "次元星域",
 		imgurl:
-			"https://weavatar.com/avatar/dd38b393c5fd3a6c83e9b1b3dd61bf2331904ea7cbccf00de381f068cc2b6846",
+			"https://images.cnblogs.com/cnblogs_com/blogs/860892/galleries/2505127/o_261123015323_1.png",
 		desc: "次元世界，漫天星域",
 		siteurl: "https://blog.107211.xyz",
 		tags: ["Blog"],
